@@ -7,4 +7,4 @@ The file contains every minute transaction data of bitcoins from December 2011 t
 Time series analysis have been done using AR-MA, ARIMA and RNN models. The data for AR_MA and ARIMA models have been split on monthly basis and RNN model is built on daily data. Rnn model predicts well as the ampiunt of training data was huge. But the ARIMA model predicts very accurately even though just trained with around 70 data points. 
 
 Also check out the blogpost for this project which was posted by Dataturks, for the work done by me. 
-link: https://dataturks.com/blog/bitcoin-price-prediction.php 
+Link: https://dataturks.com/blog/bitcoin-price-prediction.php 
